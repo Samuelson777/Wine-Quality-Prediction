@@ -32,7 +32,7 @@ The dataset contains information about different chemical properties of red wine
 In this project, we developed a machine learning model to predict red wine quality using its chemical properties. By employing a Decision Tree Regressor, we achieved satisfactory accuracy, as indicated by the evaluation metrics. The visualizations provided insights into the relationship between actual and predicted quality ratings. Future work could explore advanced algorithms and feature selection techniques to enhance model performance, demonstrating the practical applications of machine learning in the wine industry.
 
 ---
-Mean Absolute Error: 0.4625
+Mean Absolute Error: 0.4625,
 R-squared: 0.07231130172297862
 
 ## Acknowledgments
