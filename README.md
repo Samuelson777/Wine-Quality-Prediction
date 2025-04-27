@@ -39,6 +39,9 @@ R-squared: 0.07231130172297862
 UCI Machine Learning Repository for providing the dataset.
 Scikit-learn, Pandas, Matplotlib, and Seaborn for their powerful libraries that facilitate data analysis and visualization.
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Samuelson777/Wine-Quality-Prediction/blob/main/LICENSE) file for details.
+
 ## Installation
 To run this project, you need to have Python installed on your machine. You can install the required libraries using pip:
 
